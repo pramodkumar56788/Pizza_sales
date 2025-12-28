@@ -1,5 +1,5 @@
-#Pizza Sales” project description that is commonly used for SQL / Power BI / Data Analysis
-#Project Objectives
+# Pizza Sales Analysis Project
+## Project Objectives
 Analyze total revenue, total orders, and average order value
 Identify top-selling and least-selling pizzas
 Understand sales trends by day, month, and time
