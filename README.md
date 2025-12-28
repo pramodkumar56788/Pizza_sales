@@ -7,3 +7,5 @@ Identify top-selling and least-selling pizzas
 Understand sales trends by day, month, and time
 Analyze category-wise and size-wise pizza sales
 Provide actionable insights to improve sales and inventory planning
+## Dataset used
+- <a href="https://github.com/pramodkumar56788/Pizza_sales/blob/main/Pizza_Sales.pbix"> Pizza Sales Data</a>
